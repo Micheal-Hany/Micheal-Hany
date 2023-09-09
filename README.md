@@ -1,46 +1,40 @@
-Hello, I'm Micheal Hany 👋
-I'm a Flutter Developer who is passionate about making code more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Flutter, Firebase, and REST APIs. Currently, I'm studying Computer Science at Minia University and actively improving my Flutter skills.
+Hi there! 👋
+I'm Micheal Hany, a passionate Flutter developer actively seeking full-time remote job opportunities.
 
-Skills 🚀
-Flutter Development: Creating robust and scalable applications with Flutter.
-MVVM Design Pattern: Writing modular, maintainable and testable code.
-Firebase: Leveraging capabilities for user authentication, cloud storage, and real-time databases.
-Bloc for State Management: Building applications with a clear separation of responsibilities.
-REST APIs: Ensuring smooth and reliable data flow in applications.
-My Projects 🛠️
-Here are a few projects I've worked on recently. Feel free to check them out:
+About Me 👨‍💻
+I have a strong background in Flutter development and enjoy creating interactive and efficient mobile applications. Currently, I'm focusing on testing and building robust architectures on top of Flutter to further enhance app development.
 
-Project 1
-Project 2
-Project 3
-Connect with me 🌎
-LinkedIn
+Experience 💼
+Flutter Developer at [Company Name]
+[Previous Experience]
+Currently Learning 🌱
+I'm continuously improving my skills in software development and currently diving deep into:
+
+Unit and Widget Testing in Flutter
+Creating robust and scalable architectures for Flutter apps
+Ask Me About 💬
+If you have any questions or need help with the following topics, feel free to reach out:
+
+Dart programming language
+Flutter application development
+Design patterns in Flutter
+Best practices for mobile app development
+How to Reach Me 📫
 Email: michealhany@example.com
-Want to collaborate? 🤝
-I'm always open to collaborating on projects and innovative/disruptive ideas. Feel free to contact me. fill this Hi there 👋
+LinkedIn: linkedin.com/in/micheal-hany-572034262
+Portfolio: [yourportfolio.com]
+My GitHub Stats 🚀
+Micheal's GitHub Stats
 
+Tech Stack 🛠️
+Languages: Dart, Java
+Frameworks: Flutter
+Version Control: Git
+Tools: Android Studio, Visual Studio Code
+Database: Firebase, Hive
 
+Let's Connect! 🌟
+I'm always excited to collaborate and learn from others. Connect with me on GitHub or drop me an email, and let's create amazing Flutter applications together!
 
-
-
-
-
-
-
-
-### Hi there 👋
-
-<!--
-**Micheal-Hany/Micheal-Hany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Github: github.com/Micheal-Hany
+LinkedIn: linkedin.com/in/micheal-hany-572034262
