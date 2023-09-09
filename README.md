@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Micheal Hany</h1>
-<h3 align="center">a passionate Flutter developer actively seeking full-time remote job opportunities.</h3>
+<h3 align="center">A Passionate Flutter developer.</h3>
 
 - 🌱 I’m currently learning **(Unit and Widget Testing , riverpod , getx, sqlite) in Flutter**
 
