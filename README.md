@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Micheal Hany</h1>
 <h3 align="center">a passionate Flutter developer actively seeking full-time remote job opportunities.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micheal-hany&label=Profile%20views&color=0e75b6&style=flat" alt="micheal-hany" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micheal-hany" alt="micheal-hany" /></a> </p>
-
 - 🌱 I’m currently learning **(Unit and Widget Testing , riverpod , getx, sqlite) in Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Micheal-Hany](https://github.com/Micheal-Hany)
